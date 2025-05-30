@@ -18,7 +18,7 @@ To setup the environment, install the uv package manager and run:
 uv sync
 ```
 
-Download the GLES 2017 dataset from GESIS (https://doi.org/10.4232/1.13410) and put it in the `datasets` folder.
+Download the GLES 2017 dataset from GESIS (https://doi.org/10.4232/1.13648) and put it in the `datasets` folder.
 
 
 ### Experiments
